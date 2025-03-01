@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button"
-import { Github, LinkedIn, Mail, X } from "lucide-react";
+import { Hexagon, Dock, Mail, X } from "lucide-react";
 import Link from "next/link"
 import ContactForm from "./components/contact-form"
 import ProjectCard from "./components/project-card"
@@ -48,14 +48,14 @@ export default function Page() {
               <div className="space-x-4">
                 <Link href="https://github.com/Matthew3749" target="_blank">
                   <Button variant="outline" size="icon">
-                    <Github className="h-4 w-4" />
-                    <span className="sr-only">Github</span>
+                    <Hexagon className="h-4 w-4" />
+                    <span className="sr-only">GitHub</span>
                   </Button>
                 </Link>
                 <Link href="https://www.linkedin.com/in/matthew-collins1/" target="_blank">
                   <Button variant="outline" size="icon">
-                    <Linkedin className="h-4 w-4" />
-                    <span className="sr-only">Linkedin</span>
+                    <Dock className="h-4 w-4" />
+                    <span className="sr-only">Dock</span>
                   </Button>
                 </Link>
                 <Link href= "https://x.com/matt_collins81" target="_blank">
