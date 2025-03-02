@@ -26,7 +26,7 @@ export default function Page() {
               </Link>
             </nav>
           </div>
-          <Link href = "https://drive.google.com/file/d/1HLT39ElnfHdvJEZ7U_xWpdAN3Qph6S9C/view?usp=sharing" target = "_blank">
+          <Link href = "https://drive.google.com/file/d/1VVsnioAYf0lGuzCfJDo_8H2lACctFUCp/view?usp=sharing" target = "_blank">
             Resume
           </Link>
         </div>
