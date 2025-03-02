@@ -26,7 +26,7 @@ export default function Page() {
               </Link>
             </nav>
           </div>
-          <Link href = "file:///Users/matthewcollins/Downloads/Matthew_Collins_Resume.pdf">
+          <Link href = "https://drive.google.com/file/d/1GQ44aEpC3TFprylnWM2qyKIa7jlnioZ4/view?usp=sharing" target = "_blank">
             Resume
           </Link>
         </div>
