@@ -26,9 +26,9 @@ export default function Page() {
               </Link>
             </nav>
           </div>
-          <Button variant="outline" className="ml-auto">
+          <Link href = "file:///Users/matthewcollins/Downloads/Matthew_Collins_Resume.pdf">
             Resume
-          </Button>
+          </Link>
         </div>
       </header>
 
