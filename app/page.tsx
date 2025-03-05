@@ -4,7 +4,7 @@ import Link from "next/link"
 import ContactForm from "./components/contact-form"
 import ProjectCard from "./components/project-card"
 import TechStack from "./components/tech-stack"
-
+import Image from 'next/image'
 
 export default function Page() {
   return (
@@ -81,7 +81,7 @@ export default function Page() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
               About Me
             </h2>
-            <img
+            <Image
               src="/Users/matthewcollins/Downloads/5203B6A2-72ED-4606-986A-468FA360FAE8.jpg"
               alt="Matthew Collins"
               className="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover"
