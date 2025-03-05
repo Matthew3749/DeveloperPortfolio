@@ -76,20 +76,22 @@ export default function Page() {
         </section>
 
               {/* New About Section */}
-        <section id="about" className="py-12 md:py-24 lg:py-32 w-full">
+        <section id="about" className="py-2 md:py-4 lg:py-8 w-full">
           <div className="flex flex-col items-center space-y-6 text-center">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
               About Me
             </h2>
             <Image
-              src="/Users/matthewcollins/Downloads/5203B6A2-72ED-4606-986A-468FA360FAE8.jpg"
+              src="/5203B6A2-72ED-4606-986A-468FA360FAE8.jpg"
               alt="Matthew Collins"
+              width={128}
+              height={128}
               className="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover"
             />
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               Since 2020, Ive been crafting elegant solutions to complex problems. I wield Swift for iOS precision, Python for scalable systems, and React for seamless frontends—driven by a passion for clean code and big impact.
             </p>
-          </div>g
+          </div>
         </section>
 
         <section id="projects" className="py-12 md:py-24 lg:py-32">
