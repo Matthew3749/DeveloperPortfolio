@@ -82,14 +82,14 @@ export default function Page() {
               About Me
             </h2>
             <img
-              src="/me.jpg"
+              src="/Users/matthewcollins/Downloads/5203B6A2-72ED-4606-986A-468FA360FAE8.jpg"
               alt="Matthew Collins"
               className="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover"
             />
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400">
               Since 2020, Ive been crafting elegant solutions to complex problems. I wield Swift for iOS precision, Python for scalable systems, and React for seamless frontends—driven by a passion for clean code and big impact.
             </p>
-          </div>
+          </div>g
         </section>
 
         <section id="projects" className="py-12 md:py-24 lg:py-32">
