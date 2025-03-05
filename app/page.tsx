@@ -26,7 +26,7 @@ export default function Page() {
               </Link>
             </nav>
           </div>
-          <Link href = "https://drive.google.com/file/d/1VVsnioAYf0lGuzCfJDo_8H2lACctFUCp/view?usp=sharing" target = "_blank">
+          <Link href = "https://drive.google.com/file/d/1L0JkyUYxLRRB8RiQDsXfja5bOf-4He2u/view?usp=sharing" target = "_blank">
             Resume
           </Link>
         </div>
@@ -80,7 +80,7 @@ export default function Page() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">Projects</h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               <ProjectCard
-                title="E-commerce Platform"
+                title="Ai Parking App "
                 description="A full-stack e-commerce platform built with Next.js, Prisma, and Stripe integration."
                 image="/placeholder.svg?height=400&width=600"
                 link="https://github.com"
