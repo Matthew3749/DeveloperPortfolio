@@ -76,10 +76,10 @@ export default function Page() {
         </section>
 
               {/* New About Section */}
-        <section id="about" className="py-2 md:py-4 lg:py-8 w-full">
+        <section id="about" className="py-2 md:py-4 lg:py-8g w-full">
           <div className="flex flex-col items-center space-y-6 text-center">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-              About Me
+              About Me.
             </h2>
             <Image
               src="/5203B6A2-72ED-4606-986A-468FA360FAE8.jpg"
@@ -102,7 +102,7 @@ export default function Page() {
                 title="Ai Parking App "
                 description="A full-stack e-commerce platform built with Next.js, Prisma, and Stripe integration."
                 image="/placeholder.svg?height=400&width=600"
-                link="https://github.com"
+                link="https://github.com/Matthew3749/ParkLock"
                 tags={["Next.js", "Prisma", "Stripe"]}
               />
               <ProjectCard
@@ -113,7 +113,7 @@ export default function Page() {
                 tags={["React", "Node.js", "Socket.io"]}
               />
               <ProjectCard
-                title="AI Chat Interface"
+                title="AI Clash of Clans Interface"
                 description="An AI-powered chat interface with natural language processing capabilities."
                 image="/placeholder.svg?height=400&width=600"
                 link="https://github.com"
