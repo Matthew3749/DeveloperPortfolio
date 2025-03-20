@@ -99,7 +99,7 @@ export default function Page() {
             <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mb-12 text-center">Projects</h2>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
               <ProjectCard
-                title="Ai Parking App "
+                title="AI Parking App "
                 description="A full-stack e-commerce platform built with Next.js, Prisma, and Stripe integration."
                 image="/placeholder.svg?height=400&width=600"
                 link="https://github.com/Matthew3749/ParkLock"
