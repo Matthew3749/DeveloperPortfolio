@@ -25,7 +25,7 @@ export default function Page() {
               <Link href="#contact" className="transition-colors hover:text-foreground/80">
                 Contact
               </Link>
-              <Link href = "https://drive.google.com/file/d/1JbMNuTTC1vKWkLjODEfXwOXGusINzBoL/view?usp=sharing" target = "_blank">
+              <Link href = "https://drive.google.com/file/d/14xYEH1nC7kOtCAOpo0N9KSFtXQzbstvh/view?usp=sharing" target = "_blank">
                 Resume
               </Link>
             </nav>
