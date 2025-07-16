@@ -124,6 +124,12 @@ export default function Page() {
             <div className="skill-item">Swift</div>
             <div className="skill-item">Python</div>
             <div className="skill-item">JavaScript</div>
+            <div className="skill-item">Objective-C</div>
+            <div className="skill-item">C++</div>
+            <div className="skill-item">Java</div>
+            <div className="skill-item">SQL</div>
+            <div className="skill-item">HTML5</div>
+            <div className="skill-item">CSS</div>
             <div className="skill-item">React.js</div>
             <div className="skill-item">Next.js</div>
             <div className="skill-item">Node.js</div>
@@ -133,6 +139,9 @@ export default function Page() {
             <div className="skill-item">MySQL</div>
             <div className="skill-item">Core Data</div>
             <div className="skill-item">TensorFlow</div>
+            <div className="skill-item">Pytorch</div>
+            <div className="skill-item">Spark</div>
+            <div className="skill-item">CoreML</div>
           </div>
         </div>
       </section>
