@@ -164,7 +164,7 @@ export default function Page() {
               tags={["Swift", "SwiftUI", "Firebase", "Stripe API"]}
             />
             <ProjectCard
-              title="AI Clash of Clans Interface"
+              title="AI Clash of Clans Discord Bot"
               description="An AI-powered interface for strategic game analysis and optimization. Utilizes machine learning algorithms to predict optimal attack strategies and base layouts."
               link="https://github.com/Matthew3749"
               tags={["Python", "OpenAI", "Next.js", "TailwindCSS"]}
